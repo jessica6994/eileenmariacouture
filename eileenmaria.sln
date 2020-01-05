@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3054E432-30EB-4D2C-BD3C-01434D2F3C6E}"
+	ProjectSection(SolutionItems) = preProject
+		about.html = about.html
+		contact.html = contact.html
+		images\create.jpg = images\create.jpg
+		images\draw.jpg = images\draw.jpg
+		gallery.html = gallery.html
+		index.html = index.html
+		script.js = script.js
+		services.html = services.html
+		images\sparkle.jpg = images\sparkle.jpg
+		style.css = style.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB954BCB-7EC2-4EE1-B1C8-6547ECE01332}
+	EndGlobalSection
+EndGlobal
